@@ -13,10 +13,6 @@
 
 ## Screenshot
 
- > 未录制完全的动图
-
-![GIF动图](http://oqgb6tyak.bkt.clouddn.com/ofo.gif)
-
 > 以下为17张静态界面
 
 ![ofo](http://oqgb6tyak.bkt.clouddn.com/ofo.png)
